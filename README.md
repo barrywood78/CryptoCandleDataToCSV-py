@@ -1,6 +1,6 @@
-# CryptoCandleDataToCSV-Python
+# candle-csv-py
 
-CryptoCandleDataToCSV is a Python application that fetches cryptocurrency candle data from the Coinbase API and exports the data to CSV files. The application allows you to retrieve historical candle data for multiple products and granularities, handling retries and rate limits efficiently, with progress tracking through a terminal-based progress bar.
+candle-csv-py is a Python application that fetches cryptocurrency candle data from the Coinbase API and exports the data to CSV files. The application allows you to retrieve historical candle data for multiple products and granularities, handling retries and rate limits efficiently, with progress tracking through a terminal-based progress bar.
 
 ## Features
 
@@ -25,7 +25,7 @@ CryptoCandleDataToCSV is a Python application that fetches cryptocurrency candle
 
 ```bash
 git clone https://github.com/your-username/CryptoCandleDataToCSV-Python.git
-cd CryptoCandleDataToCSV-Python
+cd candle-csv-py
 ```
 
 ### Configuration
