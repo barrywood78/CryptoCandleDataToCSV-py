@@ -1,0 +1,11 @@
+{
+  "MaxRetryAttempts": 3,
+  "RetryDelayMilliseconds": 2000,
+  "ProductIds": [
+    "BTC-USDC",
+    "ETH-USDC"
+  ],
+  "Granularities": ["ONE_DAY", "ONE_HOUR", "FIFTEEN_MINUTE", "FIVE_MINUTE"],
+  "StartDate": "2023-01-01",
+  "EndDate": "2023-12-31"
+}
