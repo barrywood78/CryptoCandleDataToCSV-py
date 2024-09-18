@@ -2,10 +2,16 @@
   "MaxRetryAttempts": 3,
   "RetryDelayMilliseconds": 2000,
   "ProductIds": [
+    "AVAX-USDC",
+    "BCH-USDC",
     "BTC-USDC",
-    "ETH-USDC"
+    "DOGE-USDC",
+    "ETH-USDC",
+    "SHIB-USDC",
+    "SOL-USDC",
+    "UNI-USDC"
   ],
   "Granularities": ["ONE_DAY", "ONE_HOUR", "FIFTEEN_MINUTE", "FIVE_MINUTE"],
-  "StartDate": "2023-01-01",
-  "EndDate": "2023-12-31"
+  "StartDate": "2019-01-01",
+  "EndDate": "2024-07-01"
 }
